@@ -8,4 +8,4 @@ You can check out my linkedin [here](https://www.linkedin.com/in/mkapfhammer/)
 
 **Fun Fact!** I am a huge coffee fanatic! I love to work remotely at the coffee shop down the street!
 
-**Fun Fact 2!** I am adopting a puppy soon! I am so excited to have a new furry friend!
+**Fun Fact 2!** I am adopting a Cockapoo puppy soon! I am so excited to have a new furry friend!
