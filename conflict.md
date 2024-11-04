@@ -1,5 +1,5 @@
-# Wooooo I'm conflicted
+# This is my first merge conflict file
 
-## This is my second merge conflict file
+## I would like this to be a terrible conflict
 
-What are we conflicted about? I don't know, but I am going to try to resolve it.
+What are we conflicted about? I do not know. However, this will be a great demonstration.
